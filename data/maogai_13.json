@@ -1,0 +1,4471 @@
+{
+    "code": 0,
+    "body": {
+        "list": [
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "106c0fefebb341dab3bd788b309c21d3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的(　　)提出了全面深化改革的总目标,即完善和发展中国特色社会主义制度,推进国家治理体系和治理能力现代化,推动中国特色社会主义制度更加成熟更加定型。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "十八大",
+                "option2": "十八届三中全会",
+                "option3": "十九大",
+                "option4": "十九届三中全会",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "十八大",
+                        "option": "A"
+                    },
+                    {
+                        "content": "十八届三中全会",
+                        "option": "B"
+                    },
+                    {
+                        "content": "十九大",
+                        "option": "C"
+                    },
+                    {
+                        "content": "十九届三中全会",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "160f11ea9abe441f8d2668804102f837",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "在(　　)中,马克思和恩格斯就指出:共产党是阶级斗争发展到一定阶段的产物,它成立的目的就是率领无产阶级进行阶级斗争;而共产党的最终目的,则是建立一个“没有阶级、没有私有制的新社会”。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "《共产党宣言》",
+                "option2": "《资本论》",
+                "option3": "《神圣家族》",
+                "option4": "《反杜林论》",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "《共产党宣言》",
+                        "option": "A"
+                    },
+                    {
+                        "content": "《资本论》",
+                        "option": "B"
+                    },
+                    {
+                        "content": "《神圣家族》",
+                        "option": "C"
+                    },
+                    {
+                        "content": "《反杜林论》",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "19763d17c0d740eb9a19a8a2cec3de9f",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是指导党和人民实现中华民族伟大复兴的正确理论。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "中国特色社会主义道路",
+                "option2": "中国特色社会主义制度",
+                "option3": "中国特色社会主义理论体系",
+                "option4": "中国特色社会主义文化",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义道路",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国特色社会主义制度",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国特色社会主义理论体系",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国特色社会主义文化",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "252a58fab6734c1d955bd390527e3a7c",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的(　　)描绘了决胜全面建成小康社会、夺取新时代中国特色社会主义伟大胜利的宏伟蓝图,进一步指明了党和国家事业的前进方向,为建设社会主义现代化强国、实现中华民族伟大复兴提供了行动纲领。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "十八大",
+                "option2": "十九大",
+                "option3": "十八届三中全会",
+                "option4": "十九届三中全会",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "十八大",
+                        "option": "A"
+                    },
+                    {
+                        "content": "十九大",
+                        "option": "B"
+                    },
+                    {
+                        "content": "十八届三中全会",
+                        "option": "C"
+                    },
+                    {
+                        "content": "十九届三中全会",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "2a0a3c0ef27f419c9943b97a15b95844",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "伟大斗争、伟大工程、伟大事业、伟大梦想是一个紧密联系、相互贯通、相互作用、有机统一的整体,其中,起决定性作用的是(　　)伟大工程。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "民族复兴",
+                "option2": "社会斗争",
+                "option3": "中国特色社会主义",
+                "option4": "党的建设",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "民族复兴",
+                        "option": "A"
+                    },
+                    {
+                        "content": "社会斗争",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国特色社会主义",
+                        "option": "C"
+                    },
+                    {
+                        "content": "党的建设",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "2d6d21ef42854b08aac95ccc48ca9793",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党一经成立,就把(　　)作为党的最高理想和最终目标,义无反顾肩负起实现中华民族伟大复兴的历史使命。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "建立无产阶级专政的国家政权",
+                "option2": "实现共产主义",
+                "option3": "确立社会主义制度",
+                "option4": "实现国家富强",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "建立无产阶级专政的国家政权",
+                        "option": "A"
+                    },
+                    {
+                        "content": "实现共产主义",
+                        "option": "B"
+                    },
+                    {
+                        "content": "确立社会主义制度",
+                        "option": "C"
+                    },
+                    {
+                        "content": "实现国家富强",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "31b36f799094447abc3d7eed7afe7cda",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党是中国(　　)的先锋队。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "人民　　　　　　　　　　",
+                "option2": "社会各阶级",
+                "option3": "工人阶级",
+                "option4": "农民阶级",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "人民　　　　　　　　　　",
+                        "option": "A"
+                    },
+                    {
+                        "content": "社会各阶级",
+                        "option": "B"
+                    },
+                    {
+                        "content": "工人阶级",
+                        "option": "C"
+                    },
+                    {
+                        "content": "农民阶级",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "31c00cacb1f244aa9cf01125d2f6dbf6",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "以下不属于中国共产党领导中国人民取得的胜利的是(　　)。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "领导北伐战争",
+                "option2": "推翻国民党反动统治,完成新民主主义革命,建立了中华人民共和国",
+                "option3": "进行改革开放新的伟大革命",
+                "option4": "完成社会主义革命,确立社会主义基本制度",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "领导北伐战争",
+                        "option": "A"
+                    },
+                    {
+                        "content": "推翻国民党反动统治,完成新民主主义革命,建立了中华人民共和国",
+                        "option": "B"
+                    },
+                    {
+                        "content": "进行改革开放新的伟大革命",
+                        "option": "C"
+                    },
+                    {
+                        "content": "完成社会主义革命,确立社会主义基本制度",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "36c7b3d901a141409c3880bf1815ba00",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "无产阶级执政党必须坚持党对(　　)的最高领导权,这是马克思主义政党学说的基本原则。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "国家经济",
+                "option2": "国家政权",
+                "option3": "国家意识形态",
+                "option4": "国家文化",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "国家经济",
+                        "option": "A"
+                    },
+                    {
+                        "content": "国家政权",
+                        "option": "B"
+                    },
+                    {
+                        "content": "国家意识形态",
+                        "option": "C"
+                    },
+                    {
+                        "content": "国家文化",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "403c1b4eeb1347239b165f5a4211fb1f",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国(　　)是中国人民和中华民族的先锋队。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "共产党",
+                "option2": "国民党",
+                "option3": "民主同盟",
+                "option4": "农工党",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "共产党",
+                        "option": "A"
+                    },
+                    {
+                        "content": "国民党",
+                        "option": "B"
+                    },
+                    {
+                        "content": "民主同盟",
+                        "option": "C"
+                    },
+                    {
+                        "content": "农工党",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "453bea66cf434fce91fdfb556402cc0d",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "我们国家和民族有一个坚强的领导核心,是(　　)。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "中国共产党",
+                "option2": "全国人民代表大会",
+                "option3": "中国国家主席",
+                "option4": "中国国务院",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国共产党",
+                        "option": "A"
+                    },
+                    {
+                        "content": "全国人民代表大会",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国国家主席",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国国务院",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "47dfa8589cae45f1b3f1cec4fd0e9df3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是中国特色社会主义事业的领导核心。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "国务院",
+                "option2": "中国共产党",
+                "option3": "人民代表大会",
+                "option4": "国家主席",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "国务院",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国共产党",
+                        "option": "B"
+                    },
+                    {
+                        "content": "人民代表大会",
+                        "option": "C"
+                    },
+                    {
+                        "content": "国家主席",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "4f984c04629e4cf4ae06d552ece8e475",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是中国特色社会主义最本质的特征。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "中国道路",
+                "option2": "中国共产党的领导",
+                "option3": "中国制度",
+                "option4": "中国文化",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国道路",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国共产党的领导",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国制度",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国文化",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "52d8d770a0aa457eba8d5c3b65dd5c2b",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是中国特色社会主义制度的最大优势。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "实事求是的原则",
+                "option2": "和平、发展、合作理念",
+                "option3": "中国共产党的领导",
+                "option4": "民主法制建设",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "实事求是的原则",
+                        "option": "A"
+                    },
+                    {
+                        "content": "和平、发展、合作理念",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国共产党的领导",
+                        "option": "C"
+                    },
+                    {
+                        "content": "民主法制建设",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "5814a819df21415294e9e3a32aa57203",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "实现中华民族复兴的伟大梦想,必须深入推进(　　)新的伟大工程。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "中国特色社会主义",
+                "option2": "党的建设",
+                "option3": "社会发展",
+                "option4": "改革开放",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义",
+                        "option": "A"
+                    },
+                    {
+                        "content": "党的建设",
+                        "option": "B"
+                    },
+                    {
+                        "content": "社会发展",
+                        "option": "C"
+                    },
+                    {
+                        "content": "改革开放",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "58fa6d493d8b488cb62221dc75c01214",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是当代中国发展进步的根本制度保障,具有鲜明的中国特色,拥有明显的制度优势。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "中国特色社会主义制度",
+                "option2": "中国的基本经济制度",
+                "option3": "中国的基本分配制度",
+                "option4": "中国的基本政治制度",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义制度",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国的基本经济制度",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国的基本分配制度",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国的基本政治制度",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "5e21e532de6a4f23b604d545a26aa9a2",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "实现中华民族伟大复兴,关键在(　　)。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "道路　　　　",
+                "option2": "党　　　　",
+                "option3": "制度　　　　",
+                "option4": "文化",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "道路　　　　",
+                        "option": "A"
+                    },
+                    {
+                        "content": "党　　　　",
+                        "option": "B"
+                    },
+                    {
+                        "content": "制度　　　　",
+                        "option": "C"
+                    },
+                    {
+                        "content": "文化",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "76b88ecd0ebb4216b196cebd8861c4b0",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国特色社会主义取得巨大成果,最根本的原因就是(　　)的坚强领导。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "中国共产党",
+                "option2": "中国国务院",
+                "option3": "全国人民代表大会",
+                "option4": "中国国家主席",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国共产党",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国国务院",
+                        "option": "B"
+                    },
+                    {
+                        "content": "全国人民代表大会",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国国家主席",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "7b55a035002d4e0fa07878490aa18767",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "下列关于“中国共产党的领导是中国特色社会主义最本质的特征”的说法中,不正确的是(　　)。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "它符合科学社会主义的基本原则",
+                "option2": "它反映中国特色社会主义的历史经验",
+                "option3": "它适应新时代历史使命的实践要求",
+                "option4": "它是党的十九大提出的重要论断",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "它符合科学社会主义的基本原则",
+                        "option": "A"
+                    },
+                    {
+                        "content": "它反映中国特色社会主义的历史经验",
+                        "option": "B"
+                    },
+                    {
+                        "content": "它适应新时代历史使命的实践要求",
+                        "option": "C"
+                    },
+                    {
+                        "content": "它是党的十九大提出的重要论断",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "7b914646cb7849d48c4bdfb99822a299",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "无产阶级只有建立代表(　　)利益的先进政党,才能最终完成阶级解放和人类解放的重大历史任务。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "人民群众",
+                "option2": "农民阶级",
+                "option3": "工农联盟",
+                "option4": "自己阶级",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "人民群众",
+                        "option": "A"
+                    },
+                    {
+                        "content": "农民阶级",
+                        "option": "B"
+                    },
+                    {
+                        "content": "工农联盟",
+                        "option": "C"
+                    },
+                    {
+                        "content": "自己阶级",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "7bb4de40fd6b49afb25285c5fe955c07",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)会议审议把“中国特色社会主义最本质的特征是中国共产党的领导”载入宪法。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "十二届全国人大一次",
+                "option2": "十二届全国人大三次",
+                "option3": "十三届全国人大一次",
+                "option4": "十三届全国人大三次",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "十二届全国人大一次",
+                        "option": "A"
+                    },
+                    {
+                        "content": "十二届全国人大三次",
+                        "option": "B"
+                    },
+                    {
+                        "content": "十三届全国人大一次",
+                        "option": "C"
+                    },
+                    {
+                        "content": "十三届全国人大三次",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "89767113a1ca4e2d8bb6824b86103cf3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的(　　)以来,全面从严治党取得了重大成果,获得了人民群众的高度赞誉。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "十八大",
+                "option2": "十八届三中全会",
+                "option3": "十九大",
+                "option4": "十九届三中全会",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "十八大",
+                        "option": "A"
+                    },
+                    {
+                        "content": "十八届三中全会",
+                        "option": "B"
+                    },
+                    {
+                        "content": "十九大",
+                        "option": "C"
+                    },
+                    {
+                        "content": "十九届三中全会",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "8ae42d834f4c4fccb78a01ef8794122c",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "坚持党总揽全局、协调各方的领导核心地位,是党作为最高(　　)力量在治国理政中的重要体现。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "政治",
+                "option2": "组织",
+                "option3": "领导",
+                "option4": "政党",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "政治",
+                        "option": "A"
+                    },
+                    {
+                        "content": "组织",
+                        "option": "B"
+                    },
+                    {
+                        "content": "领导",
+                        "option": "C"
+                    },
+                    {
+                        "content": "政党",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "976a0ccfc9274a2c8665d44f9796c469",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "确保党始终总揽全局、协调各方,必须(　　)原则。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "强化政治意识",
+                "option2": "坚持党的领导",
+                "option3": "坚持民主集中制",
+                "option4": "自觉维护党的权威",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "强化政治意识",
+                        "option": "A"
+                    },
+                    {
+                        "content": "坚持党的领导",
+                        "option": "B"
+                    },
+                    {
+                        "content": "坚持民主集中制",
+                        "option": "C"
+                    },
+                    {
+                        "content": "自觉维护党的权威",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "a6c483ec77e94707b0feb3aa77007e37",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "在国家治理体系的大棋局中,(　　)是坐镇中军帐的“帅”,车马炮各展其长,一盘棋大局分明。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "国务院",
+                "option2": "全国人民代表大会",
+                "option3": "国家主席",
+                "option4": "党中央",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "国务院",
+                        "option": "A"
+                    },
+                    {
+                        "content": "全国人民代表大会",
+                        "option": "B"
+                    },
+                    {
+                        "content": "国家主席",
+                        "option": "C"
+                    },
+                    {
+                        "content": "党中央",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "a744c1b760024e0ea6b70dce6b2d82f3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "无产阶级夺取政权后,(　　)曾多次强调:“党是直接执政的无产阶级先锋队,是领导者。”",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "斯大林",
+                "option2": "列宁",
+                "option3": "普列汉诺夫",
+                "option4": "毛泽东",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "斯大林",
+                        "option": "A"
+                    },
+                    {
+                        "content": "列宁",
+                        "option": "B"
+                    },
+                    {
+                        "content": "普列汉诺夫",
+                        "option": "C"
+                    },
+                    {
+                        "content": "毛泽东",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "b91fb330e05341529d1ae72233f5adb7",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "坚持(　　)是无产阶级革命和社会主义建设取得胜利的根本保证。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "社会主义道路",
+                "option2": "人民民主专政",
+                "option3": "无产阶级政党的领导",
+                "option4": "中国特色社会主义理论",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "社会主义道路",
+                        "option": "A"
+                    },
+                    {
+                        "content": "人民民主专政",
+                        "option": "B"
+                    },
+                    {
+                        "content": "无产阶级政党的领导",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国特色社会主义理论",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "c746810a2d74472991aa40cadcebba2e",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是当代中国发展进步的根本制度保障。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "中国特色社会主义制度",
+                "option2": "中国特色社会主义文化",
+                "option3": "中国特色社会主义道路",
+                "option4": "中国特色社会主义理论体系",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义制度",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国特色社会主义文化",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国特色社会主义道路",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国特色社会主义理论体系",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "cb72c430050c4929860f694f1f7c5658",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "社会主义代替资本主义,必须通过(　　)运动来实现。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A",
+                "option1": "无产阶级的革命",
+                "option2": "无产阶级的改良",
+                "option3": "经济体制改革",
+                "option4": "政治体制改革",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "无产阶级的革命",
+                        "option": "A"
+                    },
+                    {
+                        "content": "无产阶级的改良",
+                        "option": "B"
+                    },
+                    {
+                        "content": "经济体制改革",
+                        "option": "C"
+                    },
+                    {
+                        "content": "政治体制改革",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "d08fc184294c43a193f5f5f0c0332a16",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是实现社会主义现代化、创造人民美好生活的必由之路。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "B",
+                "option1": "中国特色社会主义文化",
+                "option2": "中国特色社会主义道路",
+                "option3": "中国特色社会主义理论体系",
+                "option4": "中国特色社会主义制度",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义文化",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国特色社会主义道路",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国特色社会主义理论体系",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国特色社会主义制度",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "dfd05cff014b44c28369ef7f53c1ec2a",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "实现(　　)是近代以来中华民族最伟大的梦想。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "祖国统一",
+                "option2": "国家富强",
+                "option3": "人民富裕",
+                "option4": "中华民族伟大复兴",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "祖国统一",
+                        "option": "A"
+                    },
+                    {
+                        "content": "国家富强",
+                        "option": "B"
+                    },
+                    {
+                        "content": "人民富裕",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中华民族伟大复兴",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "e4fa80e88dc54edda3dff2478dd81dae",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党领导中国人民取得的伟大胜利具有的重大意义,不包括(　　)。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "使具有5000多年文明历史的中华民族全面迈向现代化",
+                "option2": "使具有500年历史的社会主义主张在世界上人口最多的国家成功开辟出具有高度现实性和可行性的正确道路",
+                "option3": "使具有近70年历史的新中国这个世界上最大的发展中国家在短短40年里摆脱贫困并跃升为世界第二大经济体",
+                "option4": "使中国2000多年的封建帝制终结,民主观念深入人心",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "使具有5000多年文明历史的中华民族全面迈向现代化",
+                        "option": "A"
+                    },
+                    {
+                        "content": "使具有500年历史的社会主义主张在世界上人口最多的国家成功开辟出具有高度现实性和可行性的正确道路",
+                        "option": "B"
+                    },
+                    {
+                        "content": "使具有近70年历史的新中国这个世界上最大的发展中国家在短短40年里摆脱贫困并跃升为世界第二大经济体",
+                        "option": "C"
+                    },
+                    {
+                        "content": "使中国2000多年的封建帝制终结,民主观念深入人心",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "ebbcc141977d42ecbaf2d8070637f32e",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "(　　)是激励全党全国各族人民奋勇前进的强大精神力量。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "D",
+                "option1": "中国特色社会主义道路",
+                "option2": "中国特色社会主义理论体系",
+                "option3": "中国特色社会主义制度",
+                "option4": "中国特色社会主义文化",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "中国特色社会主义道路",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国特色社会主义理论体系",
+                        "option": "B"
+                    },
+                    {
+                        "content": "中国特色社会主义制度",
+                        "option": "C"
+                    },
+                    {
+                        "content": "中国特色社会主义文化",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "fbbe3bf435384ad59c6861ae1d0929c4",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "在新民主主义革命时期,(　　)从大革命失败的教训中,确立把“支部建在连上”,确立了党指挥枪的原则,坚持了党对军队的领导。",
+                "questionType": "radio",
+                "questionTypeName": "单选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C",
+                "option1": "周恩来",
+                "option2": "张闻天",
+                "option3": "毛泽东",
+                "option4": "张国焘",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "周恩来",
+                        "option": "A"
+                    },
+                    {
+                        "content": "张闻天",
+                        "option": "B"
+                    },
+                    {
+                        "content": "毛泽东",
+                        "option": "C"
+                    },
+                    {
+                        "content": "张国焘",
+                        "option": "D"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "44a26a6c3aa04833ab8da0397d9f1bbc",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "全面增强党的执政本领,必须(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D,E",
+                "option1": "增强学习本领　　　　　　　　",
+                "option2": "增强群众工作本领",
+                "option3": "增强驾驭风险本领　　　　　　",
+                "option4": "增强改革创新本领",
+                "option5": "增强政治领导本领",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "增强学习本领　　　　　　　　",
+                        "option": "A"
+                    },
+                    {
+                        "content": "增强群众工作本领",
+                        "option": "B"
+                    },
+                    {
+                        "content": "增强驾驭风险本领　　　　　　",
+                        "option": "C"
+                    },
+                    {
+                        "content": "增强改革创新本领",
+                        "option": "D"
+                    },
+                    {
+                        "content": "增强政治领导本领",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "640b48ab67114d6a98fab710b2130f70",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "确保党始终总揽全局、协调各方,必须(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D",
+                "option1": "增强政治意识、大局意识、核心意识、看齐意识",
+                "option2": "自觉维护党中央权威和集中统一领导,自觉在思想上政治上行动上同党中央保持高度一致",
+                "option3": "坚持和完善党的领导的体制机制",
+                "option4": "坚持党的民主集中制原则",
+                "option5": "加强调查研究,坚持问题导向,精准施策发力,确保中央决策部署落地生根、开花结果",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "增强政治意识、大局意识、核心意识、看齐意识",
+                        "option": "A"
+                    },
+                    {
+                        "content": "自觉维护党中央权威和集中统一领导,自觉在思想上政治上行动上同党中央保持高度一致",
+                        "option": "B"
+                    },
+                    {
+                        "content": "坚持和完善党的领导的体制机制",
+                        "option": "C"
+                    },
+                    {
+                        "content": "坚持党的民主集中制原则",
+                        "option": "D"
+                    },
+                    {
+                        "content": "加强调查研究,坚持问题导向,精准施策发力,确保中央决策部署落地生根、开花结果",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "6ba11336db784168adab86c624960760",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "之所以说“党的领导是中国特色社会主义最本质的特征”,是因为(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,C,E",
+                "option1": "这是由科学社会主义的理论逻辑所决定的",
+                "option2": "这是马克思主义政党的基本要求",
+                "option3": "这是由中国特色社会主义产生与发展的历史逻辑所决定的",
+                "option4": "这是推进伟大事业的根本保证",
+                "option5": "这是由中国特色社会主义迈向新征程的实践逻辑所决定的",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "这是由科学社会主义的理论逻辑所决定的",
+                        "option": "A"
+                    },
+                    {
+                        "content": "这是马克思主义政党的基本要求",
+                        "option": "B"
+                    },
+                    {
+                        "content": "这是由中国特色社会主义产生与发展的历史逻辑所决定的",
+                        "option": "C"
+                    },
+                    {
+                        "content": "这是推进伟大事业的根本保证",
+                        "option": "D"
+                    },
+                    {
+                        "content": "这是由中国特色社会主义迈向新征程的实践逻辑所决定的",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "772d1a785be14b62a81279896ffaf6fb",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "下列关于中国共产党的表述中,正确的是(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D,E",
+                "option1": "是中国特色社会主义事业的开创者、推动者、引领者",
+                "option2": "团结带领人民开辟了中国特色社会主义道路",
+                "option3": "创立了中国特色社会主义理论体系",
+                "option4": "创建了中国特色社会主义制度",
+                "option5": "发展了中国特色社会主义文化",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "是中国特色社会主义事业的开创者、推动者、引领者",
+                        "option": "A"
+                    },
+                    {
+                        "content": "团结带领人民开辟了中国特色社会主义道路",
+                        "option": "B"
+                    },
+                    {
+                        "content": "创立了中国特色社会主义理论体系",
+                        "option": "C"
+                    },
+                    {
+                        "content": "创建了中国特色社会主义制度",
+                        "option": "D"
+                    },
+                    {
+                        "content": "发展了中国特色社会主义文化",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "81444c771c9549c8b5bcf15ca8b96f45",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党把科学社会主义原则和中国实际相结合,创建了(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D,E",
+                "option1": "人民代表大会制度",
+                "option2": "中国共产党领导的多党合作和政治协商制度",
+                "option3": "民族区域自治制度",
+                "option4": "基层群众自治制度",
+                "option5": "中国特色社会主义法律体系",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "人民代表大会制度",
+                        "option": "A"
+                    },
+                    {
+                        "content": "中国共产党领导的多党合作和政治协商制度",
+                        "option": "B"
+                    },
+                    {
+                        "content": "民族区域自治制度",
+                        "option": "C"
+                    },
+                    {
+                        "content": "基层群众自治制度",
+                        "option": "D"
+                    },
+                    {
+                        "content": "中国特色社会主义法律体系",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "98590453451a4af38fc6f576303bc3f3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "下列关于中国特色社会主义的表述中,正确的有(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D",
+                "option1": "是科学社会主义基本原理同当代中国实践和时代特征相结合的产物",
+                "option2": "是植根于当代中国的科学社会主义",
+                "option3": "坚持和发展中国特色社会主义,必须坚持中国共产党的领导",
+                "option4": "只有坚持中国共产党的领导,才能保证中国特色社会主义的性质和正确方向",
+                "option5": "这是马克思主义政党的基本要求",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "是科学社会主义基本原理同当代中国实践和时代特征相结合的产物",
+                        "option": "A"
+                    },
+                    {
+                        "content": "是植根于当代中国的科学社会主义",
+                        "option": "B"
+                    },
+                    {
+                        "content": "坚持和发展中国特色社会主义,必须坚持中国共产党的领导",
+                        "option": "C"
+                    },
+                    {
+                        "content": "只有坚持中国共产党的领导,才能保证中国特色社会主义的性质和正确方向",
+                        "option": "D"
+                    },
+                    {
+                        "content": "这是马克思主义政党的基本要求",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "9938b1cb63e84b4786207ed35c05296a",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "将“中国共产党的领导是中国特色社会主义最本质的特征”载入宪法的重要意义是(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,E",
+                "option1": "以国家根本大法的形式强调了党的领导在中国特色社会主义中的核心地位",
+                "option2": "使党的领导在国家运行机制和各项制度中具有更强的制度约束力和更高的法律效力",
+                "option3": "有利于把党的领导贯彻落实到国家政治生活和社会生活的各个领域",
+                "option4": "保证了对马克思主义理论的继承和发展",
+                "option5": "确保中国特色社会主义事业始终沿着正确轨道推进",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "以国家根本大法的形式强调了党的领导在中国特色社会主义中的核心地位",
+                        "option": "A"
+                    },
+                    {
+                        "content": "使党的领导在国家运行机制和各项制度中具有更强的制度约束力和更高的法律效力",
+                        "option": "B"
+                    },
+                    {
+                        "content": "有利于把党的领导贯彻落实到国家政治生活和社会生活的各个领域",
+                        "option": "C"
+                    },
+                    {
+                        "content": "保证了对马克思主义理论的继承和发展",
+                        "option": "D"
+                    },
+                    {
+                        "content": "确保中国特色社会主义事业始终沿着正确轨道推进",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "b2fd08b1df624094992f238351c7b3a7",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党在长期奋斗中形成了独特的自身优势,包括(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D,E",
+                "option1": "以马克思主义为指导,用马克思主义中国化最新理论成果武装全党、教育人民的理论优势",
+                "option2": "坚持民主集中制的制度优势",
+                "option3": "坚定崇高的政治理想、政治信念和百折不挠的革命意志的政治优势",
+                "option4": "遵循马克思主义建党原则,严密组织体系、严格组织生活、严明组织纪律,使党成为统一整体的组织优势",
+                "option5": "密切联系群众的优势",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "以马克思主义为指导,用马克思主义中国化最新理论成果武装全党、教育人民的理论优势",
+                        "option": "A"
+                    },
+                    {
+                        "content": "坚持民主集中制的制度优势",
+                        "option": "B"
+                    },
+                    {
+                        "content": "坚定崇高的政治理想、政治信念和百折不挠的革命意志的政治优势",
+                        "option": "C"
+                    },
+                    {
+                        "content": "遵循马克思主义建党原则,严密组织体系、严格组织生活、严明组织纪律,使党成为统一整体的组织优势",
+                        "option": "D"
+                    },
+                    {
+                        "content": "密切联系群众的优势",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "ccf2a07cee8847099d687c007ff61ea2",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "新时代中国共产党的历史使命,就是统揽(　　),在全面建成小康社会的基础上全面建成社会主义现代化强国,实现中华民族伟大复兴。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D",
+                "option1": "伟大斗争　　　　",
+                "option2": "伟大事业　　　　",
+                "option3": "伟大工程",
+                "option4": "伟大梦想",
+                "option5": "伟大实践",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "伟大斗争　　　　",
+                        "option": "A"
+                    },
+                    {
+                        "content": "伟大事业　　　　",
+                        "option": "B"
+                    },
+                    {
+                        "content": "伟大工程",
+                        "option": "C"
+                    },
+                    {
+                        "content": "伟大梦想",
+                        "option": "D"
+                    },
+                    {
+                        "content": "伟大实践",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "ee17e7ba0feb4971a593ca0695078c80",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党要增强群众工作的本领,就要(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,C",
+                "option1": "创新群众工作体制机制和方式方法,把党的主张变为群众的自觉行动",
+                "option2": "坚持战略思维、创新思维、辩证思维、法治思维、底线思维,科学制定和坚决执行党的路线方针政策",
+                "option3": "加强和改进党对群团工作的领导,推动工会、共青团、妇联等群团组织的纽带作用",
+                "option4": "加强和改善党对国家政权机关的领导",
+                "option5": "坚定不移贯彻创新、协调、绿色、开放、共享的发展理念",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "创新群众工作体制机制和方式方法,把党的主张变为群众的自觉行动",
+                        "option": "A"
+                    },
+                    {
+                        "content": "坚持战略思维、创新思维、辩证思维、法治思维、底线思维,科学制定和坚决执行党的路线方针政策",
+                        "option": "B"
+                    },
+                    {
+                        "content": "加强和改进党对群团工作的领导,推动工会、共青团、妇联等群团组织的纽带作用",
+                        "option": "C"
+                    },
+                    {
+                        "content": "加强和改善党对国家政权机关的领导",
+                        "option": "D"
+                    },
+                    {
+                        "content": "坚定不移贯彻创新、协调、绿色、开放、共享的发展理念",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "f80fa3f90cda4644bc4fe1e313ad62da",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "下列关于“党是最高政治领导力量”的理解中,正确的是(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,D,E",
+                "option1": "这是马克思主义政党的基本要求",
+                "option2": "这是建设新型国际关系的需要",
+                "option3": "这是深度参与全球治理的需要",
+                "option4": "这是对党领导革命、建设和改革历史经验的深刻总结",
+                "option5": "这是推进伟大事业的根本保证",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "这是马克思主义政党的基本要求",
+                        "option": "A"
+                    },
+                    {
+                        "content": "这是建设新型国际关系的需要",
+                        "option": "B"
+                    },
+                    {
+                        "content": "这是深度参与全球治理的需要",
+                        "option": "C"
+                    },
+                    {
+                        "content": "这是对党领导革命、建设和改革历史经验的深刻总结",
+                        "option": "D"
+                    },
+                    {
+                        "content": "这是推进伟大事业的根本保证",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "fa8f9e674954423d974d1ca390ea4a15",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "在科学制定和坚决执行党的路线方针政策,把党总揽全局、协调各方落到实处时,必须要坚持(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "A,B,C,D,E",
+                "option1": "战略思维",
+                "option2": "创新思维",
+                "option3": "辩证思维",
+                "option4": "法治思维",
+                "option5": "底线思维",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "战略思维",
+                        "option": "A"
+                    },
+                    {
+                        "content": "创新思维",
+                        "option": "B"
+                    },
+                    {
+                        "content": "辩证思维",
+                        "option": "C"
+                    },
+                    {
+                        "content": "法治思维",
+                        "option": "D"
+                    },
+                    {
+                        "content": "底线思维",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "fcd2a6d9d7fb4c8faf8c487bca4d6632",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党要增强改革创新的本领,就要(　　)。",
+                "questionType": "checkbox",
+                "questionTypeName": "多选题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "C,D,E",
+                "option1": "加强和改善党对国家政权机关的领导,善于通过国家政权机关实施党对国家和社会的领导",
+                "option2": "营造善于学习、勇于实践的浓厚氛围,建设马克思主义学习型政党,推动建设学习大国",
+                "option3": "善于运用互联网技术和信息化手段开展工作",
+                "option4": "保持锐意进取的精神风貌,进一步解放思想、与时俱进",
+                "option5": "加强调查研究,坚持问题导向,精准施策发力,确保中央决策部署落地生根、开花结果",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "加强和改善党对国家政权机关的领导,善于通过国家政权机关实施党对国家和社会的领导",
+                        "option": "A"
+                    },
+                    {
+                        "content": "营造善于学习、勇于实践的浓厚氛围,建设马克思主义学习型政党,推动建设学习大国",
+                        "option": "B"
+                    },
+                    {
+                        "content": "善于运用互联网技术和信息化手段开展工作",
+                        "option": "C"
+                    },
+                    {
+                        "content": "保持锐意进取的精神风貌,进一步解放思想、与时俱进",
+                        "option": "D"
+                    },
+                    {
+                        "content": "加强调查研究,坚持问题导向,精准施策发力,确保中央决策部署落地生根、开花结果",
+                        "option": "E"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "05e74b35f910401d9efe1f923a88fd77",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党是最高政治领导力量，这是马克思主义___学说的基本原则，是对历史经验的深刻总结，是推进伟大事业的___保证。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "政党",
+                "option2": "根本",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "政党",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "根本",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "073b700fd3d148ab8b287e9a5eb012c4",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党把___原则和中国___相结合，创建了人民代表大会制度的根本政治制度。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "科学社会主义",
+                "option2": "实际",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "科学社会主义",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "实际",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "314ba47dc50740809340751c5b20e2fe",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "要创新群众工作___和方式方法，既服务群众，又带领群众坚定不移贯彻落实党的___和路线方针政策。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "体制机制",
+                "option2": "理论",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "体制机制",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "理论",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "7740848984b54a2ea8731130c0f7f2d8",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的领导是中国特色社会主义最本质的特征，这是由科学社会主义的___逻辑所决定的；是由中国特色社会主义产生与发展的___逻辑所决定的；是由中国特色社会主义迈向新征程的___逻辑所决定的。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "理论",
+                "option2": "历史",
+                "option3": "实践",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "理论",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "历史",
+                        "option": "第二个空的答案"
+                    },
+                    {
+                        "content": "实践",
+                        "option": "第三个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "7ba59c2cfb584920b66408e19594ec1c",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国特色社会主义是改革开放以来党的全部___和___的主题，是党和人民历尽千辛万苦、付出巨大代价取得的根本成就。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "理论",
+                "option2": "实践",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "理论",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "实践",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "9786985f25034b9d80f865440a183172",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "必须增强___意识、大局意识、核心意识、___意识，自觉维护党中央权威和集中统一领导，自觉在思想上政治上行动上同党中央保持高度一致。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "政治",
+                "option2": "看齐",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "政治",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "看齐",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "9b49482af7834d768d57312ec8cc2e92",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "要加快形成覆盖党的领导和党的建设各方面的党内法规制度体系，坚持___治国和依规___统筹推进、一体建设。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "依法",
+                "option2": "治党",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "依法",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "治党",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "afbc0b452ad04b38a27deb8438d7a2c9",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "坚持党总揽___、___各方的领导核心地位，是党作为最高政治力量在治国理政中的重要体现。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "全局",
+                "option2": "协调",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "全局",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "协调",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "dfcc94072ca540df8f010ba4de485ec1",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "我们要更加自觉地坚定党性原则，不断增强党的___领导力、___引领力、群众组织力、社会号召力，确保我们党永葆旺盛生命力和强大战斗力。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "政治",
+                "option2": "思想",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "政治",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "思想",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "faf4641b59c4487dbe538b2aad816270",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党是___先锋队，同时是中国人民和___的先锋队，是中国特色社会主义事业的领导核心。",
+                "questionType": "fillblank",
+                "questionTypeName": "填空题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "",
+                "option1": "工人阶级",
+                "option2": "中华民族",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "工人阶级",
+                        "option": "第一个空的答案"
+                    },
+                    {
+                        "content": "中华民族",
+                        "option": "第二个空的答案"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "082542c68f2740b9a7a3662b3d341d3b",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党和中国人民扎根中国大地、吸纳人类文明优秀成果、独立自主实现国家发展的战略是正确的,必须长期坚持、永不动摇。(　)　",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "0a2c1016e4fd4390946ed2191bab537c",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "人民民主专政是中国特色社会主义制度优势发挥的根本保障,党的优势是中国特色社会主义制度优势之源。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "0ba2111c12e3437abf94168d8fefc347",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的集中统一领导是革命取得胜利的根本保障。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "158b4af5619a43a4bb92b5fa9eca66c4",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "我们要自觉地增强道路自信、理论自信、制度自信、文化自信,既不走封闭僵化的老路,也不走改旗易帜的邪路,保持政治定力,坚持实干兴邦,始终坚持和发展中国特色社会主义。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "1591a03513374cf18c518967d3f61356",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "社会在矛盾运动中前进,有矛盾就会有斗争。进入新时代,我们面临的矛盾更加复杂,我们要开展的斗争更加艰巨。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "1c9531d23f18432daaea0153c83ac21c",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "办好中国的事情关键在党,实现中华民族伟大复兴关键在人民群众。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "3e0c26a90fa7420f946910248f5fd5d3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "社会主义代替资本主义,可以通过无产阶级的革命或者改良运动来实现。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "447ece4a61c64d5fb9e1b080bc960560",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党领导中国人民开辟的中国特色社会主义道路是正确的,必须长期坚持、永不动摇。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "4531b1a9bdc14036b10ac633a005b83f",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "国家是最高政治领导力量,这是马克思主义政党学说的基本原则,是对历史经验的深刻总结,是推进伟大事业的根本保证。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "4c1b8ab3e38e4f8284ccb2d1b8b5d37f",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的领导地位和执政地位是与生俱来的,也是一劳永逸的,过去拥有等于现在拥有,现在拥有等于永远拥有。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "54a4292efc8f4b76a574adc636b1b0b3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "历史和人民选择中国共产党领导中华民族伟大复兴的事业是正确的,必须长期坚持、永不动摇。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "6408979880ac4a78bb4909ae5fd81f85",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国特色社会主义是改革开放以来党的全部理论和实践的主题,是党和人民历尽千辛万苦、付出巨大代价取得的根本成就。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "697e6258a8734893b8a45952643b1c1e",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "现在我们踏上了建成小康社会、分三步走到本世纪中叶建成社会主义现代化国家的新征程。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "6d69a8893a9443fa92e5d8773a8554ba",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "伟大斗争、伟大工程、伟大事业、伟大梦想是一个紧密联系、相互贯通、相互作用、有机统一的整体,统一于新时代坚持和发展中国特色社会主义伟大实践。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "74dfcf6d7d0944e8bd3be32da16b2485",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党是中国工人阶级的先锋队,是中国人民和中华民族的先锋队,同时还是中国特色社会主义事业的领导核心。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "86074a24dfc14b56a17fa4c8d9c5e1a9",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党要始终成为时代先锋、民族脊梁,始终成为马克思主义执政党,自身必须始终过硬。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "890a290857284de6a7553982b555a575",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "实现伟大梦想,必须推进党的建设的伟大事业。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "8ab1c39baf8f4ee4a7b924c81ba91579",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "实现伟大梦想,必须进行具有许多新的历史特点的伟大斗争。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "8ddf6d779e9548d2b16251e199073a97",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "坚持党的领导,是党和国家的根本所在、命脉所在,是全国各族人民的利益所系、幸福所系。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "8e5f672bba31438f962eb030201000d3",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "只有坚持人民民主专政,才能保证中国特色社会主义的性质和正确方向。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "错误",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "9a28404ed09e4dd4af3e8a336d09342a",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "中国共产党作为具有领导地位的长期执政的党,以自身优势引领和锻造了中国特色社会主义的制度优势,保证了中国特色社会主义制度优势的有效发挥。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "bc19438d5a3248d894e3b2c4b22ed6c4",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "伟大工程建设得好不好,直接关系到我们党有没有底气和能力去进行伟大斗争,有没有责任和策略去推进伟大事业,有没有韧性和途径去实现伟大梦想。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "ca0f9258aaff460586360b0b5899ec39",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "没有中国共产党的领导,就没有中国特色社会主义的产生与发展。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "cc2d5f1deeff440b9d85697bce471338",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "坚持和发展中国特色社会主义,必须坚持中国共产党的领导。(　)　",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "cd1e4369f3ad49ac8d4a8a57c41877cd",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "党的建设和党领导的事业是统一的。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "e4fe8673a6f84b5c97ee5925d8e322ef",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "没有中国共产党,也就没有中国特色社会主义制度,制度优势就无从谈起。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            },
+            {
+                "currentPage": 0,
+                "pageSize": 0,
+                "uid": null,
+                "createBy": null,
+                "createDate": "2021-04-18 22:32:28",
+                "updateBy": null,
+                "updateDate": null,
+                "remark": null,
+                "isdelete": "0",
+                "questionId": "f60dbbe7386e41bc82bf9b57f0bf7365",
+                "courseId": "dc0d8b619ae342a9ac661454d32ad56a",
+                "questionStem": "每一个党的组织、每一名党员干部,无论处在哪个领域、哪个层级、哪个部门和单位,都要服从党中央集中统一领导,确保党中央令行禁止。(　)",
+                "questionType": "trueflase",
+                "questionTypeName": "判断题",
+                "courseLineId": "01067dbac6644415a2afa3fd23a11634",
+                "courseLineNumber": "第十四章",
+                "questionClass": null,
+                "analysis": "",
+                "answer": "正确",
+                "option1": "",
+                "option2": "",
+                "option3": "",
+                "option4": "",
+                "option5": "",
+                "option6": "",
+                "option7": "",
+                "option8": "",
+                "option9": "",
+                "option10": "",
+                "isUpperLower": "",
+                "isSort": "",
+                "tableName": null,
+                "score": null,
+                "path": null,
+                "schoolId": "016e516c7a4e4f159fe0c9b89e73980c",
+                "options": [
+                    {
+                        "content": "正确",
+                        "option": "正确"
+                    },
+                    {
+                        "content": "错误",
+                        "option": "错误"
+                    }
+                ],
+                "list": null
+            }
+        ]
+    }
+}
