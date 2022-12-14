@@ -142,7 +142,7 @@ QUES_DATA = {'index': {}}
 # 题目类型
 QUES_TYPE = ['radio', 'checkbox', 'fillblank', 'judgment']
 # 生成试卷题目占比
-QUES_EXAM = [60, 0, 20, 20]
+QUES_EXAM = [60, 10, 10, 20]
 
 for course in META_DATA['list']:
     for line in course['pages']:
@@ -150,8 +150,8 @@ for course in META_DATA['list']:
             file_content = json.load(f)
         QUES_DATA[line] = []
         for q in file_content['body']['list']:
-            if q['questionType'] == 'checkbox':
-                continue
+            # if q['questionType'] == 'checkbox':
+            #     continue
             QUES_DATA[line].append(q)
             for key in q.keys() - PROP_FILTER:
                 q.pop(key)
