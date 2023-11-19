@@ -4,7 +4,7 @@
 
 ## 依赖
 
-- Python >= 3.7
+- Python >= 3.9
 - `sanic`
 - `python-docx`
 
